@@ -1,16 +1,62 @@
-# foodiego
+# FoodieGo — Flutter Food Delivery App
 
-A new Flutter project.
+FoodieGo is a modern food delivery mobile application built with Flutter. It includes customer, restaurant owner, and admin features, making it a complete portfolio-level food delivery app.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+### Customer App
 
-A few resources to get you started if this is your first Flutter project:
+* Splash and onboarding screens
+* Login and register screens
+* Role selection
+* Browse restaurants
+* Search restaurants and food items
+* View restaurant details
+* View food details
+* Add food to cart
+* Manage cart items
+* Checkout flow
+* Add and manage delivery addresses
+* Order success screen
+* Order tracking
+* Order history
+* Favorites
+* Reviews and ratings
+* Notifications
+* Profile management
+* Settings screen
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Restaurant Owner Panel
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Owner dashboard
+* Manage menu items
+* Add new food items
+* View and manage orders
+* View customer reviews
+
+### Admin Panel
+
+* Admin dashboard
+* Manage users
+* Manage restaurants
+* Manage food items
+* Manage orders
+* Manage coupons
+* Manage notifications
+* Add restaurants
+* Add food items
+
+## 🛠 Tech Stack
+
+* Flutter
+* Dart
+* Firebase
+* Firebase Auth
+* Cloud Firestore
+* Firebase Storage
+* Riverpod / Provider-based state management
+* GoRouter
+* Hive / Local Storage
+* Material Design
+* Clean project structure
+
